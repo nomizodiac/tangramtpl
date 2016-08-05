@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/faraz/tangram-es4.0AndroidDep/tangram-es4.0Clion/tangram-es/android/tangram/src/main/assets"/><source path="/home/faraz/tangram-es4.0AndroidDep/tangram-es4.0Clion/tangram-es/android/tangram/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/faraz/tangram-es4.0AndroidDep/tangram-es4.0Clion/tangram-es/android/tangram/src/release/assets"/></dataSet></merger>
